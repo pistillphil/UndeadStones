@@ -26,7 +26,7 @@ License:
 The game is released under the the GPL license www.gnu.org/copyleft/gpl
 
 Libraries:
-The Slick2D enginge is released under the BSD-License license: www.slick2d.org/documentation/license-bsd/
+The Slick2D library is released under the BSD-License license: www.slick2d.org/documentation/license-bsd/
 The lwjgl is released under the BSD-License www.lwjgl.org/license.php
 
 The Source Code:
