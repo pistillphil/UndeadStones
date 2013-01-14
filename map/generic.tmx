@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Castle_2" tilewidth="32" tileheight="32">
+  <image source="tiles/Castle_2.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Hinten" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAMAqAlsH/cxdADEpDblXYAAABgyAOGRwAd
+  </data>
+ </layer>
+ <layer name="Mitte" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztzrEVABAQRMHrlqcxVIAK0JXVxQY/mHxSRGRTRao0U12GTFOLHz9+/PhZ4sePHz9+nv5vyzF15QEQ8Wwg
+  </data>
+ </layer>
+ <layer name="Vorne" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAEk7GIgcBSIF6GQw4fSCZDTxIeucU4xLcC8TYy7ComQ08RGXpGwSgYBaNgFIyCkQgaB9oBo2AUjIJRMIwAAFHABhg=
+  </data>
+ </layer>
+</map>
